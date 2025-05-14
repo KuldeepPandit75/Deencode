@@ -1,0 +1,9 @@
+.heading{
+  font-size: 4rem;
+  font-weight: 600;
+  color: #000;
+  text-align: center;
+  margin-bottom: 2rem;
+  position: sticky;
+  font-family: 'Poppins', sans-serif;
+}
